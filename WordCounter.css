@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(0, 0, 0);
+    margin: 0;
+}
+#h2{
+   
+    cursor: pointer;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(206, 206, 30);
+    font-size: 40px;
+    
+}
+#h4{
+   
+    cursor: pointer;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color: rgb(20, 202, 117);
+    font-size: 15px; 
+   
+}
+#image{
+    
+    width: 220px;
+   
+}
+.form-control:hover
+{
+box-shadow: 8px 8px 6px lightcyan;
+background-color:linen;
+}
+#button:hover{
+    background-color: aqua;
+}
